@@ -1,2 +1,2 @@
-const baseUrl = 'http://localhost:3000';
+const baseUrl = 'https://devtown2024.vercel.app';
 export default baseUrl;
